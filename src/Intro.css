@@ -60,3 +60,11 @@
   transform: scale(1.1);
   box-shadow: 0 0 20px #007ced;
 }
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+
+  .intro__wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+}

@@ -10,43 +10,43 @@ function Certificates() {
         <div className="certificates__bottom__front">
           <div>
             <img
-              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/main/c1.jpeg"
+              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/master/src/Certificates/c1.jpeg"
               alt=""
             />
           </div>
           <div>
             <img
-              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/main/c2.jpeg"
+              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/master/src/Certificates/c2.jpeg"
               alt=""
             />
           </div>
           <div>
             <img
-              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/main/c3.png"
+              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/master/src/Certificates/c3.png"
               alt=""
             />
           </div>
           <div>
             <img
-              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/main/c4.jpeg"
+              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/master/src/Certificates/c4.jpeg"
               alt=""
             />
           </div>
           <div>
             <img
-              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/main/c1.jpeg"
+              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/master/src/Certificates/c1.jpeg"
               alt=""
             />
           </div>
           <div>
             <img
-              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/main/c1.jpeg"
+              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/master/src/Certificates/c1.jpeg"
               alt=""
             />
           </div>
           <div>
             <img
-              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/main/c1.jpeg"
+              src="https://raw.githubusercontent.com/SudharsanSandyy007/Portfolio/master/src/Certificates/c1.jpeg"
               alt=""
             />
           </div>
