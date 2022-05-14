@@ -1,5 +1,6 @@
 import React from "react";
 import "./Intro.css";
+import Sandyy from "./images/Sandyy.jpg";
 function Intro() {
   return (
     <div className="intro">
@@ -36,11 +37,7 @@ function Intro() {
           </div>
         </div>
         <div className="intro__right">
-          <img
-            className="intro__right__dp"
-            src="https://sqwebz.tech/Sandyy.jpg"
-            alt=""
-          />
+          <img className="intro__right__dp" src={Sandyy} alt="" />
         </div>
       </div>
     </div>
